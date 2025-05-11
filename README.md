@@ -4,7 +4,7 @@
 This Telegram bot uses both a bot token (`bot.py`) and a user session (`userbot.py`) to mirror data from another bot.
 
 ## Features
-- Mirror data from @ttmlog_bot using userbot
+- Mirror data from source bot using userbot
 - Anti-spam with auto-ban
 - Admin panel with inline actions (refill, ban, premium, export)
 - Queue system with database
